@@ -99,7 +99,7 @@
     "@sentry/vite-plugin": "^2.22.6",
     "@todesktop/runtime": "^1.6.4",
     "adm-zip": "^0.5.15",
-    "axios": "^1.7.7",
+    "axios": "^1.13.5",
     "dotenv": "^16.4.5",
     "electron-log": "^5.2.0",
     "electron-store": "8.2.0",
